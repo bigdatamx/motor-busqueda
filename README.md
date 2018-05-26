@@ -1,13 +1,13 @@
-<<<<<<< HEAD
-![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
+![bigdatamx Social Banner](https://i.imgur.com/y0x2xfD.png)
 
-# freeCodeCamp Search
+# bigdatamx Search
 
-This is the development repo for all things freeCodeCamp search
+Este es el servidor, gestor y barra de busquedas para BigDataMx 
 
-## Under Construction
+##Que hacemos
 
-We are currently in the process of refactoring how we do things around here. Check back shortly to see how you can contribute.
-=======
-# motor-busqueda
->>>>>>> 5ee8c58293f475458eb8a65ba310e46d36b0d847
+Dentro de este repositorio se indexa contenido y se genera un searchbar con autocompletado para resolver la busquedas de el sitio de guias bigdatamx.
+
+##Politica
+
+El contenido es indexado periodicamente..
