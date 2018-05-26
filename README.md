@@ -4,10 +4,10 @@
 
 Este es el servidor, gestor y barra de busquedas para BigDataMx 
 
-##Que hacemos
+#Que hacemos
 
 Dentro de este repositorio se indexa contenido y se genera un searchbar con autocompletado para resolver la busquedas de el sitio de guias bigdatamx.
 
-##Politica
+#Politica
 
 El contenido es indexado periodicamente..
